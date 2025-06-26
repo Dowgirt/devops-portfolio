@@ -2,7 +2,8 @@
 *.tfstate
 *.tfstate.*
 terraform-key.json
-
+.terraform.lock.hcl
+.terraform/
 # Ignore OS files
 .DS_Store
 Thumbs.db
